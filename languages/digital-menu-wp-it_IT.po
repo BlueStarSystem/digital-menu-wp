@@ -1,0 +1,289 @@
+# Italian translation for Digital Menu WP
+# Copyright (C) 2026 BlueStarSystem
+# This file is distributed under the same license as the plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Digital Menu WP 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-11 12:00+0100\n"
+"PO-Revision-Date: 2026-03-11 12:00+0100\n"
+"Last-Translator: BlueStarSystem <info@bluestarsystem.it>\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Admin page title and menu
+msgid "Digital Menu"
+msgstr "Menu Digitale"
+
+msgid "Digital Menu Settings"
+msgstr "Impostazioni Menu Digitale"
+
+# Connection section
+msgid "Connection"
+msgstr "Connessione"
+
+msgid "API URL"
+msgstr "URL API"
+
+msgid "Base URL of the Menu API (without /v1)."
+msgstr "URL di base dell'API Menu (senza /v1)."
+
+msgid "API Token"
+msgstr "Token API"
+
+msgid "Test Connection"
+msgstr "Testa Connessione"
+
+msgid "Testing..."
+msgstr "Test in corso..."
+
+msgid "Connected!"
+msgstr "Connesso!"
+
+msgid "Connection failed"
+msgstr "Connessione fallita"
+
+msgid "Connection OK (data unchanged)."
+msgstr "Connessione OK (dati invariati)."
+
+# Layout section
+msgid "Layout"
+msgstr "Layout"
+
+msgid "Display Mode"
+msgstr "Modalita di visualizzazione"
+
+msgid "Accordion — collapsible sections"
+msgstr "Fisarmonica — sezioni comprimibili"
+
+msgid "Tabs — one menu at a time"
+msgstr "Schede — un menu alla volta"
+
+msgid "List — everything expanded"
+msgstr "Lista — tutto espanso"
+
+msgid "Allergen Display"
+msgstr "Visualizzazione allergeni"
+
+msgid "Names — show translated allergen names"
+msgstr "Nomi — mostra i nomi tradotti degli allergeni"
+
+msgid "Numbers — numeric references with legend"
+msgstr "Numeri — riferimenti numerici con legenda"
+
+msgid "Hidden — do not show allergens"
+msgstr "Nascosti — non mostrare gli allergeni"
+
+msgid "Feature Display"
+msgstr "Visualizzazione caratteristiche"
+
+msgid "Visible — show feature badges"
+msgstr "Visibili — mostra i badge delle caratteristiche"
+
+msgid "Hidden — do not show features"
+msgstr "Nascoste — non mostrare le caratteristiche"
+
+# Currency section
+msgid "Currency"
+msgstr "Valuta"
+
+msgid "Currency Symbol"
+msgstr "Simbolo valuta"
+
+msgid "Symbol Position"
+msgstr "Posizione simbolo"
+
+msgid "Before — $10.00"
+msgstr "Prima — $10,00"
+
+msgid "After — 10.00€"
+msgstr "Dopo — 10,00€"
+
+msgid "Before with space — $ 10.00"
+msgstr "Prima con spazio — $ 10,00"
+
+msgid "After with space — 10.00 €"
+msgstr "Dopo con spazio — 10,00 €"
+
+msgid "Decimal Separator"
+msgstr "Separatore decimale"
+
+msgid "Thousand Separator"
+msgstr "Separatore delle migliaia"
+
+msgid "Decimal Places"
+msgstr "Posizioni decimali"
+
+msgid "Hide Zero Prices"
+msgstr "Nascondi prezzi a zero"
+
+msgid "Do not show prices with value 0"
+msgstr "Non mostrare i prezzi con valore 0"
+
+# Appearance section
+msgid "Appearance"
+msgstr "Aspetto"
+
+msgid "Accent Color"
+msgstr "Colore accento"
+
+msgid "Section Background"
+msgstr "Sfondo sezione"
+
+msgid "Hover Background"
+msgstr "Sfondo al passaggio"
+
+msgid "Section Title Color"
+msgstr "Colore titolo sezione"
+
+msgid "Expanded Background"
+msgstr "Sfondo sezione espansa"
+
+msgid "Description Text Color"
+msgstr "Colore testo descrizione"
+
+msgid "Allergen Badge Background"
+msgstr "Sfondo badge allergeni"
+
+msgid "Allergen Badge Text"
+msgstr "Testo badge allergeni"
+
+msgid "Feature Badge Background"
+msgstr "Sfondo badge caratteristiche"
+
+msgid "Feature Badge Text"
+msgstr "Testo badge caratteristiche"
+
+msgid "Size Scale"
+msgstr "Scala dimensioni"
+
+msgid "Small"
+msgstr "Piccolo"
+
+msgid "Medium"
+msgstr "Medio"
+
+msgid "Large"
+msgstr "Grande"
+
+msgid "Border Radius"
+msgstr "Raggio bordi"
+
+msgid "None"
+msgstr "Nessuno"
+
+msgid "Light"
+msgstr "Leggero"
+
+# Font sizes section
+msgid "Font Sizes"
+msgstr "Dimensioni caratteri"
+
+msgid "Menu Title"
+msgstr "Titolo menu"
+
+msgid "Section Title"
+msgstr "Titolo sezione"
+
+msgid "Dish Name"
+msgstr "Nome piatto"
+
+msgid "Price"
+msgstr "Prezzo"
+
+msgid "Description"
+msgstr "Descrizione"
+
+msgid "Badges"
+msgstr "Badge"
+
+# Advanced section
+msgid "Advanced"
+msgstr "Avanzate"
+
+msgid "Cache TTL"
+msgstr "Durata cache"
+
+#, php-format
+msgid "%d minutes"
+msgstr "%d minuti"
+
+msgid "Language"
+msgstr "Lingua"
+
+msgid "Automatic (WordPress locale)"
+msgstr "Automatico (lingua WordPress)"
+
+msgid "Clear Cache"
+msgstr "Svuota cache"
+
+msgid "Refresh Menus Now"
+msgstr "Aggiorna menu adesso"
+
+msgid "Clearing..."
+msgstr "Svuotamento..."
+
+msgid "Cache cleared!"
+msgstr "Cache svuotata!"
+
+msgid "Refreshing..."
+msgstr "Aggiornamento..."
+
+msgid "Menus updated!"
+msgstr "Menu aggiornati!"
+
+msgid "Clear all cached menu data?"
+msgstr "Svuotare tutti i dati dei menu in cache?"
+
+# Usage section
+msgid "Usage"
+msgstr "Utilizzo"
+
+msgid "Add the shortcode to any page or post:"
+msgstr "Aggiungi lo shortcode a qualsiasi pagina o articolo:"
+
+msgid "Optional attributes:"
+msgstr "Attributi opzionali:"
+
+# Frontend
+msgid "No menus available."
+msgstr "Nessun menu disponibile."
+
+msgid "Menu loading..."
+msgstr "Caricamento menu..."
+
+msgid "Digital Menu: unable to load menu data. Check plugin settings."
+msgstr "Menu Digitale: impossibile caricare i dati del menu. Controlla le impostazioni del plugin."
+
+# Legend
+msgid "Allergens"
+msgstr "Allergeni"
+
+msgid "Features"
+msgstr "Caratteristiche"
+
+# API errors
+msgid "Invalid JSON response from API."
+msgstr "Risposta JSON non valida dall'API."
+
+msgid "API URL or token not configured."
+msgstr "URL API o token non configurati."
+
+msgid "Invalid or expired API token."
+msgstr "Token API non valido o scaduto."
+
+msgid "API access not available for this store."
+msgstr "Accesso API non disponibile per questo negozio."
+
+msgid "API server error. Please try again later."
+msgstr "Errore server API. Riprova piu tardi."
+
+msgid "Unable to fetch menus from API."
+msgstr "Impossibile recuperare i menu dall'API."
+
+msgid "Unauthorized."
+msgstr "Non autorizzato."

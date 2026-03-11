@@ -1,0 +1,30 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/block.json",
+    "apiVersion": 3,
+    "name": "dmwp/digital-menu",
+    "version": "1.0.0",
+    "title": "Digital Menu",
+    "category": "widgets",
+    "icon": "food",
+    "description": "Display your restaurant's digital menu.",
+    "supports": {
+        "html": false,
+        "align": ["wide", "full"]
+    },
+    "attributes": {
+        "menuIds": {
+            "type": "string",
+            "default": ""
+        },
+        "layout": {
+            "type": "string",
+            "default": ""
+        },
+        "language": {
+            "type": "string",
+            "default": ""
+        }
+    },
+    "textdomain": "digital-menu-wp",
+    "editorScript": "file:./index.js"
+}
